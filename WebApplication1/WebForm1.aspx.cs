@@ -21,6 +21,16 @@ namespace WebApplication1
 
         protected void Button6_Click(object sender, EventArgs e)
         {
+            
+        }
+
+        protected void Button7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void Button8_Click(object sender, EventArgs e)
+        {
 
         }
     }
